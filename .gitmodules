@@ -1,0 +1,24 @@
+[submodule "extensions/ContributionScores"]
+	path = extensions/ContributionScores
+	url = https://github.com/wikimedia/mediawiki-extensions-ContributionScores.git
+	branch = master
+
+[submodule "extensions/MW-OAuth2Client"]
+	path = extensions/MW-OAuth2Client
+	url = https://github.com/ParadiseSS13/MW-OAuth2Client.git
+	branch = master
+
+[submodule "extensions/SearchStats"]
+	path = extensions/SearchStats
+	url = https://github.com/wikimedia/mediawiki-extensions-SearchStats.git
+	branch = master
+
+[submodule "extensions/Tabs"]
+	path = extensions/Tabs
+	url = https://github.com/wikimedia/mediawiki-extensions-Tabs.git
+	branch = master
+
+[submodule "skins/TGUI"]
+	path = skins/TGUI
+	url = https://github.com/ParadiseSS13/mediawiki-TGUI.git
+	branch = stable
